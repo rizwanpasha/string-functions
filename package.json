@@ -1,0 +1,8 @@
+{
+  "name": "string-functions",
+  "version": "1.0.0",
+  "description": "This is my first package on NPM with two simple functions, upperCase and lowerCase.",
+  "main": "index.js",
+  "author": "rizwan pasha",
+  "license": "ISC"
+}
